@@ -1,0 +1,20 @@
+.footer{
+    background: #cd0d07;
+    padding: 1rem;
+}
+
+.cima{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.baixo{
+    text-align: center;
+    color: white;
+}
+
+.linha{
+    background: white;
+    height: 2px;
+}

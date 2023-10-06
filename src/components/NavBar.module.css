@@ -1,0 +1,9 @@
+.links{
+    text-decoration: none;
+    color: white;
+    padding: 4px;
+}
+
+.links:hover{
+    font-weight: bold;
+}

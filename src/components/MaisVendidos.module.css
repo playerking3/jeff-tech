@@ -1,0 +1,8 @@
+.grid{
+    display: flex;
+    justify-content: space-between;
+}
+
+.titulo{
+    padding: 0.3rem;
+}
